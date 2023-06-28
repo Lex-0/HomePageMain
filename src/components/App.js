@@ -5,7 +5,7 @@ function App() {
     <div className="containers">
       <div className="container">
         <div className="conthead">
-          <img src='assets/img/img1.jpg' style={{ width: "100%", height: "50%" }} />
+          <img src='assets/img/img1.jpg' alt="text" style={{ width: "100%", height: "50%" }} />
           <div className="contnoticias">
             <div className="aks">The Bright Future of Web 3.0?</div>
             <div className="text">
