@@ -1,4 +1,4 @@
-import imagenes from './img'
+
 
 function Top3(){
 
@@ -6,7 +6,7 @@ function Top3(){
         <div className="classification">
         <div className="contenTop">
           <img
-            src={imagenes.imagen2}
+            src='assets/img/img2.jpg'
             style={{ width: "30%", height: "150px", width: "120px" }}
           />
 
@@ -24,7 +24,7 @@ function Top3(){
         </div>
         <div className="contenTop">
           <img
-            src={imagenes.imagen3}
+            src='assets/img/img3.jpg'
             style={{ width: "30%", height: "150px", width: "120px" }}
           />
           <div className="top">
@@ -41,7 +41,7 @@ function Top3(){
         </div>
         <div className="contenTop">
           <img
-            src={imagenes.imagen4}
+            src='assets/img/img4.jpg'
             style={{ width: "30%", height: "150px", width: "120px" }}
           />
           <div className="top">
